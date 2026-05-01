@@ -1,0 +1,9 @@
+raw_data/
+*.pdf
+*.PDF
+*.hwp
+*.HWP
+*.hwpx
+*.HWPX
+Thumbs.db
+.DS_Store
